@@ -1,6 +1,6 @@
 David Armstrong 10-22-2020
 
-Traffic mirroring is the act of copying certain transmissions to or from an endpoint, and sending 
+Traffic mirroring is the procedure of copying certain transmissions to or from an endpoint, and sending 
 it to another computer, known as a sniffer box. This is done by creating a connection for a source 
 and target, setting up filters, and then starting a session. The AWS terms are:
 
