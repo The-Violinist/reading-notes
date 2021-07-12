@@ -1,6 +1,6 @@
 David Armstrong 10-29-2020
 
-Threat modeling is a good practice for any situation where security is a concern. And with the 
+> Threat modeling is a good practice for any situation where security is a concern. And with the 
 prevalence of cyber attacks high and on the rise, it should be a concern to any organization, 
 small or large. One of the methods is STRIDE. This stands for the following:
 
