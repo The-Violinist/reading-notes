@@ -1,4 +1,4 @@
-David Armstrong 10-12-2020
+10-12-2020
 
 There are 2 states for data: at rest and in transit. One of the most common ways in which to preserve the confidentiality of the data is to use encryption. The risk profiles for data, whether in transit or at rest, vary somewhat but encryption is an effective tool in any case.
 
