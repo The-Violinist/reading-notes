@@ -1,7 +1,6 @@
 David Armstrong 10-05-2020
 
-Kali Linux is a debian-based distribution which is used extensively for cyber security purposes. 
-This is due to the fact that it has many built in tools (over 600 to be specific) for just this 
+Kali Linux is a debian-based distribution which is used extensively for cyber security purposes. This is due to the fact that it has many built in tools (over 600 to be specific) for just this 
 purpose. It is, and always will be, a free distribution which is open source; at the same time 
 it is very secure as well, being overseen by a small group of people trusted to commit using 
 multiple secure protocols. Kali can be easily adapted to fit specific needs and it has support 
