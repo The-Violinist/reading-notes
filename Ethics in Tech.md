@@ -1,4 +1,4 @@
-David Armstrong 12-3-2020
+12-3-2020
 
 The first article I read was about employee pushback over Google’s Dragonfly search engine. 
 Dragonfly was a project aimed at providing China with a search engine which could be censored 
